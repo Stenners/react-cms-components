@@ -1,6 +1,6 @@
 {
   "name": "react-cms-components",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A light framework for integrating React with any CMS using the DOM as the hook.",
   "main": "index.js",
   "scripts": {
