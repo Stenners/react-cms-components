@@ -2,7 +2,7 @@
   "name": "react-cms-components",
   "version": "1.0.4",
   "description": "A light framework for integrating React with any CMS using the DOM as the hook.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.config.js --mode production",
