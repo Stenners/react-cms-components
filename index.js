@@ -49,9 +49,9 @@ const ReactCMSComp = {
   },
 
   /**
-   * Loop the componentList, work out the path, then dynamically import the module
+   * Loop the componentList, parse the props and return
    * 
-   * @param {any} {componentList, reduxStore, staticComponentMap, componentPath} 
+   * @param {any} {componentList} 
    */
   return({componentPath, componentList}) {
     let componentArray = [];
